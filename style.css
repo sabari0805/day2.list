@@ -1,0 +1,8 @@
+body{
+    background: url(./clan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#topic{
+    font-size: small;
+}
